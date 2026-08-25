@@ -37,3 +37,8 @@ todo-api/
 ├── .env.example
 ├── .gitignore
 └── README.md
+## API Documentation
+
+FastAPI automatically generates interactive Swagger UI documentation for testing the API endpoints.
+
+![FastAPI Swagger UI](screenshots/swagger-overview.png)
