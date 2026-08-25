@@ -43,3 +43,8 @@ todo-api/
 FastAPI automatically generates interactive Swagger UI documentation for testing the API endpoints.
 
 ![FastAPI Swagger UI](screenshots/swagger-overview.png)
+## PostgreSQL Database
+
+Todo data is persisted in PostgreSQL and can be verified directly from the database.
+
+![PostgreSQL Database](screenshots/postgresql-database.png)
